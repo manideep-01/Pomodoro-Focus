@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/Home"
+        android:title="Home"
+        android:icon="@drawable/home"/>
+    <item
+        android:id="@+id/Timer"
+        android:title="Timer"
+        android:icon="@drawable/timer"/>
+
+    <item
+        android:id="@+id/placeholder"
+        android:title="" />
+
+    <item
+        android:id="@+id/Analytics"
+        android:title="Analytics"
+        android:icon="@drawable/analytics"/>
+
+    <item
+        android:id="@+id/Setting"
+        android:title="Settings"
+        android:icon="@drawable/setting"/>
+
+
+</menu>
